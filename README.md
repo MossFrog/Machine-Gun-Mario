@@ -1,6 +1,7 @@
 # Machine-Gun-Mario
 
 //-- This game has been created under the Açı Schools Computer Hardware and Software Club. --//
+
 //-- The code is poorly formatted but works nonetheless the fork by jemboi is much more organized and legibile --//
 
 The software is free to copy and modify and has been compiled into a Windows executable using the py2exe script.
